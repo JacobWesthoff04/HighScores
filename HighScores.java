@@ -14,7 +14,7 @@ public class HighScores {
 
         Player player = new Player(initials, score);
 
-        System.out.println("Player: " + player.getInitials() + "," + player.getScore());
+        System.out.println("Player: " + player.getInitials() + ", " + player.getScore());
     }
 }
 
